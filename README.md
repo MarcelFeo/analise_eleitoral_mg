@@ -32,6 +32,6 @@ Este projeto consiste em uma análise das pesquisas eleitorais municipais no est
 
 ## Conclusão
 
-O primeiro turno das eleições municipais de 2024 no Brasil trouxe resultados significativos, revelando um cenário político dinâmico e complexo. Entre os principais vencedores, destaca-se o PSD, liderado por Gilberto Kassab, que conquistou o maior número de prefeituras, superando o MDB pela primeira vez desde a redemocratização. O Centrão e partidos de direita e centro-direita também mostraram força, governando a maioria das cidades do país.
-No geral, o primeiro turno das eleições municipais de 2024 indicou uma consolidação da direita e do Centrão no Brasil, ao mesmo tempo em que apresentou um quadro ambíguo para partidos como o PT e o PSDB, que buscam se reposicionar em um cenário político em transformação.
+O primeiro turno das eleições municipais de 2024 no Brasil trouxe resultados significativos, revelando um cenário político dinâmico e complexo. Entre os principais vencedores, destaca-se o PSD, que conquistou o maior número de prefeituras. O Centro e partidos de direita e centro-direita também mostraram força, governando a maioria das cidades do estado.
+No geral, o primeiro turno das eleições municipais de 2024 indicou uma consolidação da direita e da centro-direita no estado, ao mesmo tempo em que apresentou um quadro ambíguo para partidos como o PT e o PSDB, que buscam se reposicionar em um cenário político em transformação.
 
